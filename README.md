@@ -1,4 +1,4 @@
-# 📊 Profit Performance Dashboard (Power BI)
+# 📊 Shipment Overview Dashboard (Power BI)
 
 ## 📌 Project Overview
 The **Profit Performance Dashboard** is a Power BI project designed to monitor and analyze profit trends with a strong focus on **day-over-day performance**.  
