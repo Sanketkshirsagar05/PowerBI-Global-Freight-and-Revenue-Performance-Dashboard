@@ -7,15 +7,6 @@ It provides clear visual indicators such as **percentage change, directional arr
 
 ---
 
-## 🎯 Objectives
-
-* Track **profit percentage change compared to yesterday**
-* Instantly identify **positive and negative trends**
-* Provide **clear visual signals** using arrows and colors
-* Enable quick decision-making through intuitive KPIs
-
----
-
 ## 📈 Key Features
 
 * **Profit % Change Indicator**
@@ -44,14 +35,6 @@ It provides clear visual indicators such as **percentage change, directional arr
 
 ---
 
-## 🧩 Dashboard Components
-
-* KPI Cards for Profit Percentage Change
-* Conditional Formatting for color-based insights
-* Arrow-based trend indicators
-* Date-driven analysis using a calendar table
-
----
 
 ## 📊 Data Source
 
@@ -61,22 +44,6 @@ It provides clear visual indicators such as **percentage change, directional arr
 
 ---
 
-## 🛠️ Tools & Technologies
-
-* **Power BI Desktop**
-* **DAX (for calculations and logic)**
-* **Data Modeling**
-* **Conditional Formatting**
-
----
-
-## 📂 Data Requirements
-
-* Date dimension table
-* Fact table containing profit-related data
-* Proper relationships between fact and dimension tables
-
----
 
 ## 🖼️ Screenshots
 
@@ -107,14 +74,6 @@ It provides clear visual indicators such as **percentage change, directional arr
 * Clear visual hierarchy
 * Focus on actionable insights
 
----
-
-## 📌 Future Enhancements
-
-* Weekly and monthly comparison metrics
-* Threshold-based alerts
-* Integration with shipment and revenue KPIs
-* Drill-through analysis for deeper insights
 
 ---
 
