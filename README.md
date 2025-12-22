@@ -67,16 +67,6 @@ It provides clear visual indicators such as **percentage change, directional arr
 
 ---
 
-## 🎨 Design Principles
-
-* Minimal and professional layout
-* Consistent color usage
-* Clear visual hierarchy
-* Focus on actionable insights
-
-
----
-
 ## 👤 Author
 
 **Sanket Kshirsagar**
