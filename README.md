@@ -55,7 +55,7 @@ It provides clear visual indicators such as **percentage change, directional arr
 
 ### 📌 Dashboard View
 
-
+![Dashboard View](https://github.com/Sanketkshirsagar05/PowerBI-Global-Freight-and-Revenue-Performance-Dashboard/blob/main/Screenshot/Dashboard%20Screenshot.png)
 
 ### 🔗 Relationship View
 
