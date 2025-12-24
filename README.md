@@ -46,7 +46,7 @@ It provides clear visual indicators such as **percentage change, directional arr
 
 ## 🔗 Project Links
 
-* **Live Power BI Dashboard:** [Dashboard View](https://github.com/Sanketkshirsagar05/PowerBI-Global-Freight-and-Revenue-Performance-Dashboard/blob/main/Screenshot/Dashboard%20Screenshot.png    )
+* **Live Power BI Dashboard:** [Dashboard View](https://app.powerbi.com/view?r=eyJrIjoiYjg4YjFmODItMjdjYi00NGE4LWEzYjEtZjJmMmY3MjlkMzU5IiwidCI6IjIxZGEzZTE2LTU2NjgtNDNhYy04MThmLTBjYzU4YzVlZmFmNCJ9)
 
   
 ---
