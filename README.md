@@ -1,4 +1,4 @@
-# 📊 Profit Performance Dashboard (Power BI)
+# 📊 Profit Performance Dashboard
 
 ## 📌 Project Overview
 
